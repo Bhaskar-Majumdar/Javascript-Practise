@@ -32,3 +32,9 @@ console.log("("+ j + " > 30) && ("+ l + " < 150) == " + operation);
 
 operation = (j > 30) || (l < 150)
 console.log("("+ j + " > 30) || ("+ l + " < 150) == " + operation);
+
+//Increment & Decrement Operator
+let i = 7;
+//++i;
+console.log(i++);
+console.log(i);
